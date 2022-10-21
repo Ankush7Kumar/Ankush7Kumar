@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankush
-- 👀 I’m interested in web as well as android development.
+- 👀 I’m interested in web as well as android development
 - 📫 Reach me on LinkedIn: https://ca.linkedin.com/in/ankushkumar7906
 
 <!---
