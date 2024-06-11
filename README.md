@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ankush
 - 👀 I’m interested in web as well as android development
-- 📫 Reach me on LinkedIn: https://ca.linkedin.com/in/ankush7kumar
 
 <!---
 Ankush7Kumar/Ankush7Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
