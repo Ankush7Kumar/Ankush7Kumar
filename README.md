@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankush
 - 👀 I’m interested in web as well as android development
-- 💡 My current interest include computer vision model training
+- 💡 I'm fascinated by computer vision model training
 
 <!---
 Ankush7Kumar/Ankush7Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
