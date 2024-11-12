@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankush
-- 👀 I’m interested in web as well as android development
+- 👀 I’m interested in full stack development
 - 💡 I'm fascinated by computer vision model training
 
 <!---
