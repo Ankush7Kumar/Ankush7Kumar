@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ankush
 - 👀 I’m interested in full stack development
-- ❤️ Spring Boot 
 - 💡 I'm fascinated by computer vision model training
 
 <!---
